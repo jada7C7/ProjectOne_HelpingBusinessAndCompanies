@@ -30,7 +30,7 @@ body {
 
 @media screen and (max-width: 1199px) {
     .main-banner {
-        height: 120vh;
+        height: 70vh;
     }
 }
 
@@ -75,7 +75,6 @@ body {
         font-size: 15px;
         margin-right: 20px;
         margin-left: 20px;
-    
     }
 }
 
@@ -126,7 +125,7 @@ body {
 }
 
 .main-navigation--open {
-    opacity:1;
+    opacity: 1;
     pointer-events: unset;
 }
 
@@ -339,7 +338,7 @@ body {
 @media(max-width:991px) {
     .main-services__information h2 {
         font-size: 40px;
-     margin: 20px;
+        margin: 20px;
     }
 }
 
@@ -360,7 +359,7 @@ body {
 
 @media(max-width:991px) {
     .main-services__information p {
-       margin: 20px;
+        margin: 20px;
     }
 }
 
